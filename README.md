@@ -4,4 +4,4 @@ The following codes have been uploaded:
 1) Load Modelling for Irrigation system considering the pump efficiency, Rainfall parameters and Evapotranspiration of the crops.
 2) Domestic Load Modelling for the village Dharnai.
 3) Base Design for both the DMG and DIS NOTE: This code involves multiple iterations (Gauss-Seidel Method) and battery Degradation. Multiple variables have been used which might be confusing at first.
-4) SETA code for energy transfer without priority. The algortihm considers all the possible events as in Paper and transfers energy based on that.
+4) SETA (Smart Energy Transfer Algorithm) for energy transfer without prioritising any Micro-Grids. The algortihm considers all the possible events as in Paper and transfers energy based on that.
